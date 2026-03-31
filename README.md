@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Dev Pathak
-**Registration Number:** 24BCE10361
+**Name:** KESHAV GOEL
+**Registration Number:** 24BCE10844
 
 ---
 
